@@ -8,5 +8,5 @@ Funciones principales:
 - Control de personas con botones de "+" y "-".
 - Resultados con propina total, total general y pago por persona.
 
-Colores azules :).
+
 
